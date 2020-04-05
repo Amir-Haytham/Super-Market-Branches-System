@@ -1,0 +1,15 @@
+4W Administrative 19
+1A Groceries 6
+2A Confectionary-and-Pastry 7
+3A Dairy-Products 8
+4A Vegetables-and-Fruits 9
+5A Frozen-Food 10
+6A Meats-and-Poultries 11
+7A Fast-Meals 12
+8A Detergents-Products 13
+9A Clothes 14
+10A House-Furniture 15
+1W IT 16
+2W Finance 17
+3W Marketing 18
+10 20 50

@@ -1,0 +1,10 @@
+ITProg IT_Programmer 20000 25000 1W
+DB_Admin DataBaseAdminstrator 25000 30000 1W
+FINANCE_MGR FinanceManager 8000 12000 2W
+HR_REP Human_Resources_Representative 9000 16000 4W
+BRANCH_MGR BranchManager 10000 15000 4W
+SEC_MGR SectionManager 4000 6000 3W
+CASHIER AccountCustomer 5000 7000 3W
+SAL_MAN SalesMan 2500 5000 3W
+SAL_MAN SalesMan 2500 5000 3W
+ed ededed 333 33333 1e

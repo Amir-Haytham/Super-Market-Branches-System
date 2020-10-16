@@ -1,4 +1,4 @@
-# Super Market Branches Management System
+# Super Market Branches Administration System
 A Data Base Console Application for Super Market which has distributed branches in different governorates for File Processing (CS211) Course. The Project is a file-based system Attached with ERD
 
 ## Entity Relationship Diagram (ERD) for the Data Base of the Project
